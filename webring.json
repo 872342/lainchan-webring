@@ -1,5 +1,5 @@
 {
-    "updated": "2023-02-16 13:38:01.885224",
+    "updated": "2023-02-17 13:38:02.026715",
     "items": {
         "alive": [
             {
@@ -38,6 +38,12 @@
                 "url": "https://xerophyte.neocities.org",
                 "img": "xerophyte.gif",
                 "title": "Xerophyte"
+            },
+            {
+                "url": "https://tinfoil-hat.net",
+                "tor": "http://x3zf5cyqvutslx6yfdwip3nb2xo4kaevhk6bbeas74ky7cvgr36bf6yd.onion",
+                "img": "tinfoil-hat.png",
+                "title": "tinfoil-hat"
             },
             {
                 "url": "https://nightt.neocities.org",
@@ -504,12 +510,6 @@
             }
         ],
         "dead": [
-            {
-                "url": "https://tinfoil-hat.net",
-                "tor": "http://x3zf5cyqvutslx6yfdwip3nb2xo4kaevhk6bbeas74ky7cvgr36bf6yd.onion",
-                "img": "tinfoil-hat.png",
-                "title": "tinfoil-hat"
-            },
             {
                 "url": "https://nyom.ru",
                 "img": "nyom.gif",
