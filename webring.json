@@ -1,5 +1,5 @@
 {
-    "updated": "2023-02-19 13:38:01.648431",
+    "updated": "2023-02-20 13:38:01.720476",
     "items": {
         "alive": [
             {
@@ -148,11 +148,6 @@
                 "url": "https://strlst.myogaya.jp/index.html",
                 "img": "strlst.png",
                 "title": "satorialistic"
-            },
-            {
-                "url": "https://user-index.xyz",
-                "img": "user-index.gif",
-                "title": "User-Index"
             },
             {
                 "url": "https://skumsoft.ltd/slimenet",
@@ -524,6 +519,11 @@
                 "url": "https://cumbia.neocities.org",
                 "img": "cumbia.png",
                 "title": "Cumbia in the wired"
+            },
+            {
+                "url": "https://user-index.xyz",
+                "img": "user-index.gif",
+                "title": "User-Index"
             },
             {
                 "url": "https://six10.pw",
