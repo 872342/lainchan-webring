@@ -1,5 +1,5 @@
 {
-    "updated": "2023-02-23 13:38:01.790456",
+    "updated": "2023-02-24 13:38:01.733130",
     "items": {
         "alive": [
             {
@@ -353,6 +353,13 @@
                 "title": "Driftt"
             },
             {
+                "url": "https://chaox.ro",
+                "tor": "http://chaoxuo7g4tqdyeikjo6jaa6dmk34vmdp3s577hgeusuntmcfd4xaxqd.onion",
+                "i2p": "http://6bcqgkedaq2krrhvidjlmdsoltmzuwaqtrafycfzbc56h5swumoq.b32.i2p",
+                "img": "chaox.png",
+                "title": "Chaox"
+            },
+            {
                 "url": "https://itsevergreen.rip",
                 "img": "evergreen.png",
                 "title": "Evergreen"
@@ -559,13 +566,6 @@
                 "url": "https://arisu.world",
                 "img": "arisu-world.png",
                 "title": "arisu.world"
-            },
-            {
-                "url": "https://chaox.ro",
-                "tor": "http://chaoxuo7g4tqdyeikjo6jaa6dmk34vmdp3s577hgeusuntmcfd4xaxqd.onion",
-                "i2p": "http://6bcqgkedaq2krrhvidjlmdsoltmzuwaqtrafycfzbc56h5swumoq.b32.i2p",
-                "img": "chaox.png",
-                "title": "Chaox"
             },
             {
                 "url": "https://ty3r0x.chaox.ro",
