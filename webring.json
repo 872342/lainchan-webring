@@ -1,5 +1,5 @@
 {
-    "updated": "2023-02-24 13:38:01.733130",
+    "updated": "2023-02-25 13:38:02.142667",
     "items": {
         "alive": [
             {
@@ -13,11 +13,6 @@
                 "i2p": "http://wjh66n7sdq4drpvs6qlucsmohc33eix2japrcwyhpxyanywdgy4q.b32.i2p",
                 "img": "getimiskon.png",
                 "title": "getimiskon's space"
-            },
-            {
-                "url": "https://yukinu.com",
-                "img": "yukinu.gif",
-                "title": "Yukinu"
             },
             {
                 "url": "http://alienozi.c1.biz",
@@ -38,6 +33,12 @@
                 "url": "https://xerophyte.neocities.org",
                 "img": "xerophyte.gif",
                 "title": "Xerophyte"
+            },
+            {
+                "url": "https://tinfoil-hat.net",
+                "tor": "http://x3zf5cyqvutslx6yfdwip3nb2xo4kaevhk6bbeas74ky7cvgr36bf6yd.onion",
+                "img": "tinfoil-hat.png",
+                "title": "tinfoil-hat"
             },
             {
                 "url": "https://nightt.neocities.org",
@@ -168,11 +169,6 @@
                 "url": "http://freetext.wz.cz",
                 "img": "freetext.png",
                 "title": "Freetext"
-            },
-            {
-                "url": "https://six10.pw",
-                "img": "six10.png",
-                "title": "SIX10"
             },
             {
                 "url": "https://jack---91.neocities.org",
@@ -512,10 +508,9 @@
         ],
         "dead": [
             {
-                "url": "https://tinfoil-hat.net",
-                "tor": "http://x3zf5cyqvutslx6yfdwip3nb2xo4kaevhk6bbeas74ky7cvgr36bf6yd.onion",
-                "img": "tinfoil-hat.png",
-                "title": "tinfoil-hat"
+                "url": "https://yukinu.com",
+                "img": "yukinu.gif",
+                "title": "Yukinu"
             },
             {
                 "url": "https://nyom.ru",
@@ -536,6 +531,11 @@
                 "url": "https://user-index.xyz",
                 "img": "user-index.gif",
                 "title": "User-Index"
+            },
+            {
+                "url": "https://six10.pw",
+                "img": "six10.png",
+                "title": "SIX10"
             },
             {
                 "url": "https://xenobyte.xyz",
