@@ -1,5 +1,5 @@
 {
-    "updated": "2023-03-03 13:38:01.755107",
+    "updated": "2023-03-04 13:38:02.019568",
     "items": {
         "alive": [
             {
@@ -153,11 +153,6 @@
                 "url": "https://skumsoft.ltd/slimenet",
                 "img": "slime-net.gif",
                 "title": "Slime-Net"
-            },
-            {
-                "url": "https://bendersteed.tech",
-                "img": "bendersteed.jpg",
-                "title": "Bendersteed"
             },
             {
                 "url": "https://hellishchemicals.neocities.org",
@@ -531,6 +526,11 @@
                 "url": "https://user-index.xyz",
                 "img": "user-index.gif",
                 "title": "User-Index"
+            },
+            {
+                "url": "https://bendersteed.tech",
+                "img": "bendersteed.jpg",
+                "title": "Bendersteed"
             },
             {
                 "url": "https://six10.pw",
