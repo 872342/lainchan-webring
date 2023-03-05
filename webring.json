@@ -1,5 +1,5 @@
 {
-    "updated": "2023-03-04 13:38:02.019568",
+    "updated": "2023-03-05 13:38:01.473697",
     "items": {
         "alive": [
             {
@@ -153,6 +153,11 @@
                 "url": "https://skumsoft.ltd/slimenet",
                 "img": "slime-net.gif",
                 "title": "Slime-Net"
+            },
+            {
+                "url": "https://bendersteed.tech",
+                "img": "bendersteed.jpg",
+                "title": "Bendersteed"
             },
             {
                 "url": "https://hellishchemicals.neocities.org",
@@ -376,12 +381,6 @@
                 "title": "Spectrum of Consciousness"
             },
             {
-                "url": "https://libertywitch.com",
-                "tor": "http://mlucvtipzluwceniyzwxt52a3wdvu3t3ahdshht3sctc6hs4o2umqjad.onion",
-                "img": "liberty-witch.png",
-                "title": "Liberty Witch"
-            },
-            {
                 "url": "https://seapunk.xyz",
                 "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
                 "img": "seapunk.gif",
@@ -528,11 +527,6 @@
                 "title": "User-Index"
             },
             {
-                "url": "https://bendersteed.tech",
-                "img": "bendersteed.jpg",
-                "title": "Bendersteed"
-            },
-            {
                 "url": "https://six10.pw",
                 "img": "six10.png",
                 "title": "SIX10"
@@ -566,6 +560,12 @@
                 "url": "https://arisu.world",
                 "img": "arisu-world.png",
                 "title": "arisu.world"
+            },
+            {
+                "url": "https://libertywitch.com",
+                "tor": "http://mlucvtipzluwceniyzwxt52a3wdvu3t3ahdshht3sctc6hs4o2umqjad.onion",
+                "img": "liberty-witch.png",
+                "title": "Liberty Witch"
             },
             {
                 "url": "https://ty3r0x.chaox.ro",
