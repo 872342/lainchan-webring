@@ -1,5 +1,5 @@
 {
-    "updated": "2023-03-28 12:38:01.833646",
+    "updated": "2023-03-29 12:38:01.470623",
     "items": {
         "alive": [
             {
@@ -381,6 +381,12 @@
                 "title": "Spectrum of Consciousness"
             },
             {
+                "url": "https://libertywitch.com",
+                "tor": "http://mlucvtipzluwceniyzwxt52a3wdvu3t3ahdshht3sctc6hs4o2umqjad.onion",
+                "img": "liberty-witch.png",
+                "title": "Liberty Witch"
+            },
+            {
                 "url": "https://seapunk.xyz",
                 "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
                 "img": "seapunk.gif",
@@ -560,12 +566,6 @@
                 "url": "https://arisu.world",
                 "img": "arisu-world.png",
                 "title": "arisu.world"
-            },
-            {
-                "url": "https://libertywitch.com",
-                "tor": "http://mlucvtipzluwceniyzwxt52a3wdvu3t3ahdshht3sctc6hs4o2umqjad.onion",
-                "img": "liberty-witch.png",
-                "title": "Liberty Witch"
             },
             {
                 "url": "https://ty3r0x.chaox.ro",
