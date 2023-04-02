@@ -1,5 +1,5 @@
 {
-    "updated": "2023-04-01 12:38:01.577314",
+    "updated": "2023-04-02 12:38:02.081225",
     "items": {
         "alive": [
             {
@@ -393,6 +393,11 @@
                 "title": "Seapunk"
             },
             {
+                "url": "https://ty3r0x.chaox.ro",
+                "img": "ty3r0x.png",
+                "title": "Ty3r0x"
+            },
+            {
                 "url": "https://lckdscl.xyz",
                 "img": "lckdscl.png",
                 "title": "lckdscl"
@@ -566,11 +571,6 @@
                 "url": "https://arisu.world",
                 "img": "arisu-world.png",
                 "title": "arisu.world"
-            },
-            {
-                "url": "https://ty3r0x.chaox.ro",
-                "img": "ty3r0x.png",
-                "title": "Ty3r0x"
             },
             {
                 "url": "https://www.tyxton.net",
