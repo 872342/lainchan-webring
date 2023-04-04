@@ -1,5 +1,5 @@
 {
-    "updated": "2023-04-03 12:38:01.565280",
+    "updated": "2023-04-04 12:38:02.255391",
     "items": {
         "alive": [
             {
@@ -163,12 +163,6 @@
                 "url": "https://hellishchemicals.neocities.org",
                 "img": "hellish-chemicals.png",
                 "title": "Hellish Chemicals"
-            },
-            {
-                "url": "https://theswissbay.ch/pdf",
-                "tor": "http://swissbaync5d7ykaz7dh7v4qjrb4gmen5aj3bogxrcgbb43ij34bjuyd.onion/pdf",
-                "img": "the-swiss-bay.jpg",
-                "title": "The Swiss Bay"
             },
             {
                 "url": "http://freetext.wz.cz",
@@ -480,6 +474,11 @@
                 "title": "urof.net"
             },
             {
+                "url": "https://trrb.xyz/",
+                "img": "trrb.png",
+                "title": "trrb"
+            },
+            {
                 "url": "https://www.s-config.com",
                 "tor": "http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion",
                 "img": "s-config.png",
@@ -538,6 +537,12 @@
                 "title": "User-Index"
             },
             {
+                "url": "https://theswissbay.ch/pdf",
+                "tor": "http://swissbaync5d7ykaz7dh7v4qjrb4gmen5aj3bogxrcgbb43ij34bjuyd.onion/pdf",
+                "img": "the-swiss-bay.jpg",
+                "title": "The Swiss Bay"
+            },
+            {
                 "url": "https://six10.pw",
                 "img": "six10.png",
                 "title": "SIX10"
@@ -576,11 +581,6 @@
                 "url": "https://www.tyxton.net",
                 "img": "tyxton.png",
                 "title": "tyxton.net"
-            },
-            {
-                "url": "https://trrb.xyz/",
-                "img": "trrb.png",
-                "title": "trrb"
             },
             {
                 "url": "https://intr.cx",
