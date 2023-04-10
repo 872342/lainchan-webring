@@ -1,5 +1,5 @@
 {
-    "updated": "2023-04-09 12:38:01.891162",
+    "updated": "2023-04-10 12:38:02.164079",
     "items": {
         "alive": [
             {
@@ -89,11 +89,6 @@
                 "title": "lich's website"
             },
             {
-                "url": "http://radioccc.xyz",
-                "img": "radio-chupacabra.png",
-                "title": "Radio Chupacabra"
-            },
-            {
                 "url": "https://uwcur.neocities.org",
                 "img": "uwcur.png",
                 "title": "Underground Web Cyberpunk Community Project"
@@ -127,11 +122,6 @@
                 "url": "https://grafovolaverunt.xyz",
                 "img": "grafovolaverunt.gif",
                 "title": "Grafo Volaverunt"
-            },
-            {
-                "url": "https://kill-9.xyz",
-                "img": "kill-9-new.png",
-                "title": "kill-9.xyz"
             },
             {
                 "url": "https://sftn.github.io",
@@ -523,9 +513,19 @@
         ],
         "dead": [
             {
+                "url": "http://radioccc.xyz",
+                "img": "radio-chupacabra.png",
+                "title": "Radio Chupacabra"
+            },
+            {
                 "url": "https://nyom.ru",
                 "img": "nyom.gif",
                 "title": "nyom.ru"
+            },
+            {
+                "url": "https://kill-9.xyz",
+                "img": "kill-9-new.png",
+                "title": "kill-9.xyz"
             },
             {
                 "url": "https://lainch.leibur.eu",
