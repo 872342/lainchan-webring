@@ -1,5 +1,5 @@
 {
-    "updated": "2023-04-10 12:38:02.164079",
+    "updated": "2023-04-11 12:38:01.763177",
     "items": {
         "alive": [
             {
@@ -87,6 +87,11 @@
                 "url": "https://dataswamp.org/~lich",
                 "img": "lich.png",
                 "title": "lich's website"
+            },
+            {
+                "url": "http://radioccc.xyz",
+                "img": "radio-chupacabra.png",
+                "title": "Radio Chupacabra"
             },
             {
                 "url": "https://uwcur.neocities.org",
@@ -190,11 +195,6 @@
                 "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion",
                 "img": "sizeofcat.jpg",
                 "title": "sizeof(cat)"
-            },
-            {
-                "url": "https://unix.tirol",
-                "img": "unix-tirol.png",
-                "title": "unix.tirol"
             },
             {
                 "url": "https://extramundane.xyz",
@@ -513,11 +513,6 @@
         ],
         "dead": [
             {
-                "url": "http://radioccc.xyz",
-                "img": "radio-chupacabra.png",
-                "title": "Radio Chupacabra"
-            },
-            {
                 "url": "https://nyom.ru",
                 "img": "nyom.gif",
                 "title": "nyom.ru"
@@ -556,6 +551,11 @@
                 "url": "https://tildezero.xyz/~goat/#rigmarole",
                 "img": "blaise-haskell.jpg",
                 "title": "Blaise Haskell"
+            },
+            {
+                "url": "https://unix.tirol",
+                "img": "unix-tirol.png",
+                "title": "unix.tirol"
             },
             {
                 "url": "http://hakase-shrine.cf",
