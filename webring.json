@@ -1,5 +1,5 @@
 {
-    "updated": "2023-04-19 12:38:02.394607",
+    "updated": "2023-04-20 12:38:02.233793",
     "items": {
         "alive": [
             {
@@ -458,6 +458,11 @@
                 "title": "Vincememe"
             },
             {
+                "url": "https://nomadalgia.xyz",
+                "img": "nomadalgia.gif",
+                "title": "Nomadalgia"
+            },
+            {
                 "url": "https://minugahana.neocities.org",
                 "img": "minugahana.png",
                 "title": "minugahana"
@@ -571,11 +576,6 @@
                 "url": "https://michii.tk",
                 "img": "michi.png",
                 "title": "Michi"
-            },
-            {
-                "url": "https://nomadalgia.xyz",
-                "img": "nomadalgia.gif",
-                "title": "Nomadalgia"
             },
             {
                 "url": "https://www.tyxton.net",
