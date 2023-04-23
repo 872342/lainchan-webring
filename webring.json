@@ -1,5 +1,5 @@
 {
-    "updated": "2023-04-22 12:38:01.755989",
+    "updated": "2023-04-23 12:38:02.033012",
     "items": {
         "alive": [
             {
@@ -215,11 +215,6 @@
                 "url": "https://protocol7.xyz",
                 "img": "protocol7.png",
                 "title": "Protocol 7"
-            },
-            {
-                "url": "https://tard.zone",
-                "img": "tard-zone.gif",
-                "title": "Tard Zone"
             },
             {
                 "url": "https://beedge.neocities.org",
@@ -561,6 +556,11 @@
                 "url": "http://hakase-shrine.cf",
                 "img": "shrine-of-hakase.gif",
                 "title": "Shrine of Hakase"
+            },
+            {
+                "url": "https://tard.zone",
+                "img": "tard-zone.gif",
+                "title": "Tard Zone"
             },
             {
                 "url": "https://0x1bi.net",
