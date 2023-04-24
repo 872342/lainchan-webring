@@ -1,5 +1,5 @@
 {
-    "updated": "2023-04-23 12:38:02.033012",
+    "updated": "2023-04-24 12:38:01.709803",
     "items": {
         "alive": [
             {
@@ -372,12 +372,6 @@
                 "title": "Liberty Witch"
             },
             {
-                "url": "https://seapunk.xyz",
-                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
-                "img": "seapunk.gif",
-                "title": "Seapunk"
-            },
-            {
                 "url": "https://ty3r0x.chaox.ro",
                 "img": "ty3r0x.png",
                 "title": "Ty3r0x"
@@ -474,6 +468,11 @@
                 "tor": "http://xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion",
                 "img": "s-config.png",
                 "title": "S-Config"
+            },
+            {
+                "url": "https://grafo.zone",
+                "img": "grafo-zone.png",
+                "title": "Grafo Zone"
             },
             {
                 "url": "https://cool-website.xyz",
@@ -573,14 +572,15 @@
                 "title": "Michi"
             },
             {
+                "url": "https://seapunk.xyz",
+                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
+                "img": "seapunk.gif",
+                "title": "Seapunk"
+            },
+            {
                 "url": "https://www.tyxton.net",
                 "img": "tyxton.png",
                 "title": "tyxton.net"
-            },
-            {
-                "url": "https://grafo.zone",
-                "img": "grafo-zone.png",
-                "title": "Grafo Zone"
             },
             {
                 "url": "https://intr.cx",
