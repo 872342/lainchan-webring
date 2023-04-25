@@ -1,5 +1,5 @@
 {
-    "updated": "2023-04-24 12:38:01.709803",
+    "updated": "2023-04-25 12:38:02.651638",
     "items": {
         "alive": [
             {
@@ -372,6 +372,12 @@
                 "title": "Liberty Witch"
             },
             {
+                "url": "https://seapunk.xyz",
+                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
+                "img": "seapunk.gif",
+                "title": "Seapunk"
+            },
+            {
                 "url": "https://ty3r0x.chaox.ro",
                 "img": "ty3r0x.png",
                 "title": "Ty3r0x"
@@ -570,12 +576,6 @@
                 "url": "https://michii.tk",
                 "img": "michi.png",
                 "title": "Michi"
-            },
-            {
-                "url": "https://seapunk.xyz",
-                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
-                "img": "seapunk.gif",
-                "title": "Seapunk"
             },
             {
                 "url": "https://www.tyxton.net",
