@@ -1,5 +1,5 @@
 {
-    "updated": "2023-05-09 12:38:01.720300",
+    "updated": "2023-05-10 12:38:01.769816",
     "items": {
         "alive": [
             {
@@ -70,13 +70,6 @@
                 "url": "https://www.davidgebski.nl",
                 "img": "davidgebski.png",
                 "title": "davidgebski.nl"
-            },
-            {
-                "url": "https://mayvaneday.org",
-                "tor": "http://meynethaffeecapsvfphrcnfrx44w2nskgls2juwitibvqctk2plvhqd.onion",
-                "i2p": "http://zli2qsg54w7y42vgw4xxlnj4nktcpg7xp33yjxkp33sjafvznbwa.b32.i2p",
-                "img": "mayvaneday-org.png",
-                "title": "MayVaneDay Studios"
             },
             {
                 "url": "https://se7en-site.neocities.org",
@@ -502,6 +495,13 @@
             }
         ],
         "dead": [
+            {
+                "url": "https://mayvaneday.org",
+                "tor": "http://meynethaffeecapsvfphrcnfrx44w2nskgls2juwitibvqctk2plvhqd.onion",
+                "i2p": "http://zli2qsg54w7y42vgw4xxlnj4nktcpg7xp33yjxkp33sjafvznbwa.b32.i2p",
+                "img": "mayvaneday-org.png",
+                "title": "MayVaneDay Studios"
+            },
             {
                 "url": "https://nyom.ru",
                 "img": "nyom.gif",
