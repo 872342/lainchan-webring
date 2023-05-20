@@ -1,5 +1,5 @@
 {
-    "updated": "2023-05-19 12:38:02.311497",
+    "updated": "2023-05-20 12:38:02.230656",
     "items": {
         "alive": [
             {
@@ -237,11 +237,6 @@
                 "url": "https://digilord.neocities.org",
                 "img": "digilord.gif",
                 "title": "Digilord"
-            },
-            {
-                "url": "https://godcock.neocities.org",
-                "img": "godcock.jpg",
-                "title": "Godcock"
             },
             {
                 "url": "https://karar.neocities.org",
@@ -561,6 +556,11 @@
                 "url": "https://0x1bi.net",
                 "img": "0x1bi.png",
                 "title": "0x1bi"
+            },
+            {
+                "url": "https://godcock.neocities.org",
+                "img": "godcock.jpg",
+                "title": "Godcock"
             },
             {
                 "url": "https://michii.tk",
