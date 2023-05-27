@@ -1,5 +1,5 @@
 {
-    "updated": "2023-05-26 12:38:01.768133",
+    "updated": "2023-05-27 12:38:02.311363",
     "items": {
         "alive": [
             {
@@ -183,6 +183,12 @@
                 "url": "https://purplevoid.neocities.org",
                 "img": "purplevoid.png",
                 "title": "purplevoid"
+            },
+            {
+                "url": "https://sizeof.cat",
+                "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion",
+                "img": "sizeofcat.jpg",
+                "title": "sizeof(cat)"
             },
             {
                 "url": "https://extramundane.xyz",
@@ -540,12 +546,6 @@
                 "url": "https://tildezero.xyz/~goat/#rigmarole",
                 "img": "blaise-haskell.jpg",
                 "title": "Blaise Haskell"
-            },
-            {
-                "url": "https://sizeof.cat",
-                "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion",
-                "img": "sizeofcat.jpg",
-                "title": "sizeof(cat)"
             },
             {
                 "url": "https://unix.tirol",
