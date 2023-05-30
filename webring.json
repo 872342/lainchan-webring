@@ -1,5 +1,5 @@
 {
-    "updated": "2023-05-29 12:38:01.877875",
+    "updated": "2023-05-30 12:38:01.846685",
     "items": {
         "alive": [
             {
@@ -132,6 +132,12 @@
                 "url": "https://sftn.github.io",
                 "img": "sftn.png",
                 "title": "Strings From The Network"
+            },
+            {
+                "url": "https://lilibyte.net",
+                "tor": "http://23xyglk2g4y2fdtrpm4wo3rvrq2gt2ar7f3pyyt7ikeywdq5kpbheuyd.onion",
+                "img": "lilibyte.gif",
+                "title": "Lilibyte"
             },
             {
                 "url": "https://strlst.myogaya.jp/index.html",
@@ -407,11 +413,6 @@
                 "title": "nerdbox"
             },
             {
-                "url": "https://thecrypt.neocities.org",
-                "img": "thecrypt.gif",
-                "title": "TheCrypt"
-            },
-            {
                 "url": "https://orizuru.neocities.org",
                 "img": "orizuru.png",
                 "title": "orizuru"
@@ -522,12 +523,6 @@
                 "title": "Cumbia in the wired"
             },
             {
-                "url": "https://lilibyte.net",
-                "tor": "http://23xyglk2g4y2fdtrpm4wo3rvrq2gt2ar7f3pyyt7ikeywdq5kpbheuyd.onion",
-                "img": "lilibyte.gif",
-                "title": "Lilibyte"
-            },
-            {
                 "url": "https://user-index.xyz",
                 "img": "user-index.gif",
                 "title": "User-Index"
@@ -576,6 +571,11 @@
                 "url": "https://arisu.world",
                 "img": "arisu-world.png",
                 "title": "arisu.world"
+            },
+            {
+                "url": "https://thecrypt.neocities.org",
+                "img": "thecrypt.gif",
+                "title": "TheCrypt"
             },
             {
                 "url": "https://www.tyxton.net",
