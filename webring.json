@@ -1,5 +1,5 @@
 {
-    "updated": "2023-06-01 12:38:01.854775",
+    "updated": "2023-06-02 12:38:01.799511",
     "items": {
         "alive": [
             {
@@ -469,6 +469,11 @@
                 "title": "Grafo Zone"
             },
             {
+                "url": "https://cool-website.xyz",
+                "img": "cool-website.png",
+                "title": "cool-website.xyz"
+            },
+            {
                 "url": "https://czar.kalli.st",
                 "img": "czar.png",
                 "title": "czar's blog"
@@ -583,11 +588,6 @@
                 "i2p": "http://6jaqgde66kdsqct4ptzdj2vd32kblnk5scgwoprtmcreqbhobuhq.b32.i2p",
                 "img": "interloper.png",
                 "title": "interloper minimalist services"
-            },
-            {
-                "url": "https://cool-website.xyz",
-                "img": "cool-website.png",
-                "title": "cool-website.xyz"
             }
         ]
     }
