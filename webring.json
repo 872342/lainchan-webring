@@ -1,5 +1,5 @@
 {
-    "updated": "2023-06-02 12:38:01.799511",
+    "updated": "2023-06-03 12:38:01.800874",
     "items": {
         "alive": [
             {
@@ -13,11 +13,6 @@
                 "i2p": "http://wjh66n7sdq4drpvs6qlucsmohc33eix2japrcwyhpxyanywdgy4q.b32.i2p",
                 "img": "getimiskon.png",
                 "title": "getimiskon's space"
-            },
-            {
-                "url": "https://yukinu.com",
-                "img": "yukinu.gif",
-                "title": "Yukinu"
             },
             {
                 "url": "http://alienozi.c1.biz",
@@ -329,6 +324,11 @@
                 "title": "lain.la"
             },
             {
+                "url": "https://arisu.world",
+                "img": "arisu-world.png",
+                "title": "arisu.world"
+            },
+            {
                 "url": "https://unpop.neocities.org",
                 "img": "unpop.gif",
                 "title": "Unpop"
@@ -496,6 +496,11 @@
         ],
         "dead": [
             {
+                "url": "https://yukinu.com",
+                "img": "yukinu.gif",
+                "title": "Yukinu"
+            },
+            {
                 "url": "https://nyom.ru",
                 "img": "nyom.gif",
                 "title": "nyom.ru"
@@ -559,11 +564,6 @@
                 "url": "https://xiixiixii.xyz",
                 "img": "xiixiixii.gif",
                 "title": "xiixiixii"
-            },
-            {
-                "url": "https://arisu.world",
-                "img": "arisu-world.png",
-                "title": "arisu.world"
             },
             {
                 "url": "https://thecrypt.neocities.org",
