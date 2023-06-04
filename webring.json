@@ -1,5 +1,5 @@
 {
-    "updated": "2023-06-03 12:38:01.800874",
+    "updated": "2023-06-04 12:38:01.455462",
     "items": {
         "alive": [
             {
@@ -13,6 +13,11 @@
                 "i2p": "http://wjh66n7sdq4drpvs6qlucsmohc33eix2japrcwyhpxyanywdgy4q.b32.i2p",
                 "img": "getimiskon.png",
                 "title": "getimiskon's space"
+            },
+            {
+                "url": "https://yukinu.com",
+                "img": "yukinu.gif",
+                "title": "Yukinu"
             },
             {
                 "url": "http://alienozi.c1.biz",
@@ -495,11 +500,6 @@
             }
         ],
         "dead": [
-            {
-                "url": "https://yukinu.com",
-                "img": "yukinu.gif",
-                "title": "Yukinu"
-            },
             {
                 "url": "https://nyom.ru",
                 "img": "nyom.gif",
