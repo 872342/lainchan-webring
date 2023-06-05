@@ -1,5 +1,5 @@
 {
-    "updated": "2023-06-04 12:38:01.455462",
+    "updated": "2023-06-05 12:38:02.487352",
     "items": {
         "alive": [
             {
@@ -18,11 +18,6 @@
                 "url": "https://yukinu.com",
                 "img": "yukinu.gif",
                 "title": "Yukinu"
-            },
-            {
-                "url": "http://alienozi.c1.biz",
-                "img": "alienozi.png",
-                "title": "Alienozi's Website for Electonics"
             },
             {
                 "url": "https://jyushimatsu.web.fc2.com",
@@ -500,6 +495,11 @@
             }
         ],
         "dead": [
+            {
+                "url": "http://alienozi.c1.biz",
+                "img": "alienozi.png",
+                "title": "Alienozi's Website for Electonics"
+            },
             {
                 "url": "https://nyom.ru",
                 "img": "nyom.gif",
