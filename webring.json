@@ -1,5 +1,5 @@
 {
-    "updated": "2023-06-15 12:38:02.358503",
+    "updated": "2023-06-16 12:38:01.651669",
     "items": {
         "alive": [
             {
@@ -153,6 +153,12 @@
                 "url": "https://hellishchemicals.neocities.org",
                 "img": "hellish-chemicals.png",
                 "title": "Hellish Chemicals"
+            },
+            {
+                "url": "https://theswissbay.ch/pdf",
+                "tor": "http://swissbaync5d7ykaz7dh7v4qjrb4gmen5aj3bogxrcgbb43ij34bjuyd.onion/pdf",
+                "img": "the-swiss-bay.jpg",
+                "title": "The Swiss Bay"
             },
             {
                 "url": "http://freetext.wz.cz",
@@ -520,12 +526,6 @@
                 "url": "https://user-index.xyz",
                 "img": "user-index.gif",
                 "title": "User-Index"
-            },
-            {
-                "url": "https://theswissbay.ch/pdf",
-                "tor": "http://swissbaync5d7ykaz7dh7v4qjrb4gmen5aj3bogxrcgbb43ij34bjuyd.onion/pdf",
-                "img": "the-swiss-bay.jpg",
-                "title": "The Swiss Bay"
             },
             {
                 "url": "https://six10.pw",
