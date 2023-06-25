@@ -1,5 +1,5 @@
 {
-    "updated": "2023-06-24 12:38:02.327192",
+    "updated": "2023-06-25 12:38:02.813985",
     "items": {
         "alive": [
             {
@@ -339,6 +339,13 @@
                 "title": "Driftt"
             },
             {
+                "url": "https://chaox.ro",
+                "tor": "http://chaoxuo7g4tqdyeikjo6jaa6dmk34vmdp3s577hgeusuntmcfd4xaxqd.onion",
+                "i2p": "http://6bcqgkedaq2krrhvidjlmdsoltmzuwaqtrafycfzbc56h5swumoq.b32.i2p",
+                "img": "chaox.png",
+                "title": "Chaox"
+            },
+            {
                 "url": "https://itsevergreen.rip",
                 "img": "evergreen.png",
                 "title": "Evergreen"
@@ -369,6 +376,11 @@
                 "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
                 "img": "seapunk.gif",
                 "title": "Seapunk"
+            },
+            {
+                "url": "https://ty3r0x.chaox.ro",
+                "img": "ty3r0x.png",
+                "title": "Ty3r0x"
             },
             {
                 "url": "https://lckdscl.xyz",
@@ -554,18 +566,6 @@
                 "url": "https://xiixiixii.xyz",
                 "img": "xiixiixii.gif",
                 "title": "xiixiixii"
-            },
-            {
-                "url": "https://chaox.ro",
-                "tor": "http://chaoxuo7g4tqdyeikjo6jaa6dmk34vmdp3s577hgeusuntmcfd4xaxqd.onion",
-                "i2p": "http://6bcqgkedaq2krrhvidjlmdsoltmzuwaqtrafycfzbc56h5swumoq.b32.i2p",
-                "img": "chaox.png",
-                "title": "Chaox"
-            },
-            {
-                "url": "https://ty3r0x.chaox.ro",
-                "img": "ty3r0x.png",
-                "title": "Ty3r0x"
             },
             {
                 "url": "https://thecrypt.neocities.org",
