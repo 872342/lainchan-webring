@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-03 12:38:02.892833",
+    "updated": "2023-07-04 12:38:01.758264",
     "items": {
         "alive": [
             {
@@ -133,11 +133,6 @@
                 "tor": "http://23xyglk2g4y2fdtrpm4wo3rvrq2gt2ar7f3pyyt7ikeywdq5kpbheuyd.onion",
                 "img": "lilibyte.gif",
                 "title": "Lilibyte"
-            },
-            {
-                "url": "https://strlst.myogaya.jp/index.html",
-                "img": "strlst.png",
-                "title": "satorialistic"
             },
             {
                 "url": "https://skumsoft.ltd/slimenet",
@@ -372,12 +367,6 @@
                 "title": "Liberty Witch"
             },
             {
-                "url": "https://seapunk.xyz",
-                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
-                "img": "seapunk.gif",
-                "title": "Seapunk"
-            },
-            {
                 "url": "https://ty3r0x.chaox.ro",
                 "img": "ty3r0x.png",
                 "title": "Ty3r0x"
@@ -528,6 +517,11 @@
                 "title": "Cumbia in the wired"
             },
             {
+                "url": "https://strlst.myogaya.jp/index.html",
+                "img": "strlst.png",
+                "title": "satorialistic"
+            },
+            {
                 "url": "https://user-index.xyz",
                 "img": "user-index.gif",
                 "title": "User-Index"
@@ -571,6 +565,12 @@
                 "url": "https://xiixiixii.xyz",
                 "img": "xiixiixii.gif",
                 "title": "xiixiixii"
+            },
+            {
+                "url": "https://seapunk.xyz",
+                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
+                "img": "seapunk.gif",
+                "title": "Seapunk"
             },
             {
                 "url": "https://thecrypt.neocities.org",
