@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-04 12:38:01.758264",
+    "updated": "2023-07-05 12:38:02.264434",
     "items": {
         "alive": [
             {
@@ -367,6 +367,12 @@
                 "title": "Liberty Witch"
             },
             {
+                "url": "https://seapunk.xyz",
+                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
+                "img": "seapunk.gif",
+                "title": "Seapunk"
+            },
+            {
                 "url": "https://ty3r0x.chaox.ro",
                 "img": "ty3r0x.png",
                 "title": "Ty3r0x"
@@ -565,12 +571,6 @@
                 "url": "https://xiixiixii.xyz",
                 "img": "xiixiixii.gif",
                 "title": "xiixiixii"
-            },
-            {
-                "url": "https://seapunk.xyz",
-                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
-                "img": "seapunk.gif",
-                "title": "Seapunk"
             },
             {
                 "url": "https://thecrypt.neocities.org",
