@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-15 12:38:01.954818",
+    "updated": "2023-07-16 12:38:01.865108",
     "items": {
         "alive": [
             {
@@ -65,13 +65,6 @@
                 "url": "https://www.davidgebski.nl",
                 "img": "davidgebski.png",
                 "title": "davidgebski.nl"
-            },
-            {
-                "url": "https://mayvaneday.org",
-                "tor": "http://meynethaffeecapsvfphrcnfrx44w2nskgls2juwitibvqctk2plvhqd.onion",
-                "i2p": "http://zli2qsg54w7y42vgw4xxlnj4nktcpg7xp33yjxkp33sjafvznbwa.b32.i2p",
-                "img": "mayvaneday-org.png",
-                "title": "MayVaneDay Studios"
             },
             {
                 "url": "https://se7en-site.neocities.org",
@@ -500,6 +493,13 @@
                 "url": "http://alienozi.c1.biz",
                 "img": "alienozi.png",
                 "title": "Alienozi's Website for Electonics"
+            },
+            {
+                "url": "https://mayvaneday.org",
+                "tor": "http://meynethaffeecapsvfphrcnfrx44w2nskgls2juwitibvqctk2plvhqd.onion",
+                "i2p": "http://zli2qsg54w7y42vgw4xxlnj4nktcpg7xp33yjxkp33sjafvznbwa.b32.i2p",
+                "img": "mayvaneday-org.png",
+                "title": "MayVaneDay Studios"
             },
             {
                 "url": "https://nyom.ru",
