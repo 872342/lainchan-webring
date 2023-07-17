@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-16 12:38:01.865108",
+    "updated": "2023-07-17 12:38:02.502748",
     "items": {
         "alive": [
             {
@@ -65,6 +65,13 @@
                 "url": "https://www.davidgebski.nl",
                 "img": "davidgebski.png",
                 "title": "davidgebski.nl"
+            },
+            {
+                "url": "https://mayvaneday.org",
+                "tor": "http://meynethaffeecapsvfphrcnfrx44w2nskgls2juwitibvqctk2plvhqd.onion",
+                "i2p": "http://zli2qsg54w7y42vgw4xxlnj4nktcpg7xp33yjxkp33sjafvznbwa.b32.i2p",
+                "img": "mayvaneday-org.png",
+                "title": "MayVaneDay Studios"
             },
             {
                 "url": "https://se7en-site.neocities.org",
@@ -171,12 +178,6 @@
                 "url": "https://purplevoid.neocities.org",
                 "img": "purplevoid.png",
                 "title": "purplevoid"
-            },
-            {
-                "url": "https://sizeof.cat",
-                "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion",
-                "img": "sizeofcat.jpg",
-                "title": "sizeof(cat)"
             },
             {
                 "url": "https://extramundane.xyz",
@@ -495,13 +496,6 @@
                 "title": "Alienozi's Website for Electonics"
             },
             {
-                "url": "https://mayvaneday.org",
-                "tor": "http://meynethaffeecapsvfphrcnfrx44w2nskgls2juwitibvqctk2plvhqd.onion",
-                "i2p": "http://zli2qsg54w7y42vgw4xxlnj4nktcpg7xp33yjxkp33sjafvznbwa.b32.i2p",
-                "img": "mayvaneday-org.png",
-                "title": "MayVaneDay Studios"
-            },
-            {
                 "url": "https://nyom.ru",
                 "img": "nyom.gif",
                 "title": "nyom.ru"
@@ -546,6 +540,12 @@
                 "url": "https://tildezero.xyz/~goat/#rigmarole",
                 "img": "blaise-haskell.jpg",
                 "title": "Blaise Haskell"
+            },
+            {
+                "url": "https://sizeof.cat",
+                "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion",
+                "img": "sizeofcat.jpg",
+                "title": "sizeof(cat)"
             },
             {
                 "url": "https://unix.tirol",
