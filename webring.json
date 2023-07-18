@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-17 12:38:02.502748",
+    "updated": "2023-07-18 12:38:02.487740",
     "items": {
         "alive": [
             {
@@ -178,6 +178,12 @@
                 "url": "https://purplevoid.neocities.org",
                 "img": "purplevoid.png",
                 "title": "purplevoid"
+            },
+            {
+                "url": "https://sizeof.cat",
+                "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion",
+                "img": "sizeofcat.jpg",
+                "title": "sizeof(cat)"
             },
             {
                 "url": "https://extramundane.xyz",
@@ -360,12 +366,6 @@
                 "title": "Liberty Witch"
             },
             {
-                "url": "https://seapunk.xyz",
-                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
-                "img": "seapunk.gif",
-                "title": "Seapunk"
-            },
-            {
                 "url": "https://ty3r0x.chaox.ro",
                 "img": "ty3r0x.png",
                 "title": "Ty3r0x"
@@ -542,12 +542,6 @@
                 "title": "Blaise Haskell"
             },
             {
-                "url": "https://sizeof.cat",
-                "tor": "http://sizeofaex6zgovemvemn2g3jfmgujievmxxxbcgnbrnmgcjcjpiiprqd.onion",
-                "img": "sizeofcat.jpg",
-                "title": "sizeof(cat)"
-            },
-            {
                 "url": "https://unix.tirol",
                 "img": "unix-tirol.png",
                 "title": "unix.tirol"
@@ -571,6 +565,12 @@
                 "url": "https://xiixiixii.xyz",
                 "img": "xiixiixii.gif",
                 "title": "xiixiixii"
+            },
+            {
+                "url": "https://seapunk.xyz",
+                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
+                "img": "seapunk.gif",
+                "title": "Seapunk"
             },
             {
                 "url": "https://thecrypt.neocities.org",
