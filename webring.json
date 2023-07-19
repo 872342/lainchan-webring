@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-18 12:38:02.487740",
+    "updated": "2023-07-19 12:38:02.514576",
     "items": {
         "alive": [
             {
@@ -127,6 +127,12 @@
                 "url": "https://sftn.github.io",
                 "img": "sftn.png",
                 "title": "Strings From The Network"
+            },
+            {
+                "url": "https://lilibyte.net",
+                "tor": "http://23xyglk2g4y2fdtrpm4wo3rvrq2gt2ar7f3pyyt7ikeywdq5kpbheuyd.onion",
+                "img": "lilibyte.gif",
+                "title": "Lilibyte"
             },
             {
                 "url": "https://strlst.myogaya.jp/index.html",
@@ -366,6 +372,12 @@
                 "title": "Liberty Witch"
             },
             {
+                "url": "https://seapunk.xyz",
+                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
+                "img": "seapunk.gif",
+                "title": "Seapunk"
+            },
+            {
                 "url": "https://ty3r0x.chaox.ro",
                 "img": "ty3r0x.png",
                 "title": "Ty3r0x"
@@ -516,12 +528,6 @@
                 "title": "Cumbia in the wired"
             },
             {
-                "url": "https://lilibyte.net",
-                "tor": "http://23xyglk2g4y2fdtrpm4wo3rvrq2gt2ar7f3pyyt7ikeywdq5kpbheuyd.onion",
-                "img": "lilibyte.gif",
-                "title": "Lilibyte"
-            },
-            {
                 "url": "https://user-index.xyz",
                 "img": "user-index.gif",
                 "title": "User-Index"
@@ -565,12 +571,6 @@
                 "url": "https://xiixiixii.xyz",
                 "img": "xiixiixii.gif",
                 "title": "xiixiixii"
-            },
-            {
-                "url": "https://seapunk.xyz",
-                "tor": "http://seapunkltrahptcvv45lyws754uk64l3ywssuzil2ghk77k276dvtvqd.onion",
-                "img": "seapunk.gif",
-                "title": "Seapunk"
             },
             {
                 "url": "https://thecrypt.neocities.org",
