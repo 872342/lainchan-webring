@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-26 12:38:01.468151",
+    "updated": "2023-07-27 12:38:02.039995",
     "items": {
         "alive": [
             {
@@ -82,6 +82,11 @@
                 "url": "https://dataswamp.org/~lich",
                 "img": "lich.png",
                 "title": "lich's website"
+            },
+            {
+                "url": "http://radioccc.xyz",
+                "img": "radio-chupacabra.png",
+                "title": "Radio Chupacabra"
             },
             {
                 "url": "https://uwcur.neocities.org",
@@ -489,11 +494,6 @@
                 "url": "http://alienozi.c1.biz",
                 "img": "alienozi.png",
                 "title": "Alienozi's Website for Electonics"
-            },
-            {
-                "url": "http://radioccc.xyz",
-                "img": "radio-chupacabra.png",
-                "title": "Radio Chupacabra"
             },
             {
                 "url": "https://nyom.ru",
