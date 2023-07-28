@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-27 12:38:02.039995",
+    "updated": "2023-07-28 12:38:01.958305",
     "items": {
         "alive": [
             {
@@ -13,11 +13,6 @@
                 "i2p": "http://wjh66n7sdq4drpvs6qlucsmohc33eix2japrcwyhpxyanywdgy4q.b32.i2p",
                 "img": "getimiskon.png",
                 "title": "getimiskon's space"
-            },
-            {
-                "url": "https://yukinu.com",
-                "img": "yukinu.gif",
-                "title": "Yukinu"
             },
             {
                 "url": "https://jyushimatsu.web.fc2.com",
@@ -490,6 +485,11 @@
             }
         ],
         "dead": [
+            {
+                "url": "https://yukinu.com",
+                "img": "yukinu.gif",
+                "title": "Yukinu"
+            },
             {
                 "url": "http://alienozi.c1.biz",
                 "img": "alienozi.png",
