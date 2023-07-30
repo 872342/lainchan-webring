@@ -1,5 +1,5 @@
 {
-    "updated": "2023-07-29 12:38:02.483759",
+    "updated": "2023-07-30 12:38:02.440483",
     "items": {
         "alive": [
             {
@@ -225,6 +225,13 @@
                 "url": "https://beedge.neocities.org",
                 "img": "beedge.png",
                 "title": "Beedge"
+            },
+            {
+                "url": "https://deadendshrine.online",
+                "tor": "http://blapi36sowfyuwzp4ag24xb3d4zdrzgtafez3g3lkp2rj4ho7lxhceid.onion",
+                "i2p": "http://2a55el42cobuxtls7iv6eoimejocybdekwnnaefcn4u2f5eydela.b32.i2p",
+                "img": "dead-end-shrine.png",
+                "title": "Dead End Shrine Online"
             },
             {
                 "url": "https://digilord.neocities.org",
@@ -542,13 +549,6 @@
                 "url": "https://0x1bi.net",
                 "img": "0x1bi.png",
                 "title": "0x1bi"
-            },
-            {
-                "url": "https://deadendshrine.online",
-                "tor": "http://blapi36sowfyuwzp4ag24xb3d4zdrzgtafez3g3lkp2rj4ho7lxhceid.onion",
-                "i2p": "http://2a55el42cobuxtls7iv6eoimejocybdekwnnaefcn4u2f5eydela.b32.i2p",
-                "img": "dead-end-shrine.png",
-                "title": "Dead End Shrine Online"
             },
             {
                 "url": "https://michii.tk",
