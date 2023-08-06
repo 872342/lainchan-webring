@@ -1,5 +1,5 @@
 {
-    "updated": "2023-08-05 12:38:01.413757",
+    "updated": "2023-08-06 12:38:02.060094",
     "items": {
         "alive": [
             {
@@ -13,11 +13,6 @@
                 "i2p": "http://wjh66n7sdq4drpvs6qlucsmohc33eix2japrcwyhpxyanywdgy4q.b32.i2p",
                 "img": "getimiskon.png",
                 "title": "getimiskon's space"
-            },
-            {
-                "url": "https://yukinu.com",
-                "img": "yukinu.gif",
-                "title": "Yukinu"
             },
             {
                 "url": "https://jyushimatsu.web.fc2.com",
@@ -469,11 +464,6 @@
                 "title": "cool-website.xyz"
             },
             {
-                "url": "https://czar.kalli.st",
-                "img": "czar.png",
-                "title": "czar's blog"
-            },
-            {
                 "url": "https://foreverliketh.is",
                 "img": "foreverliketh.png",
                 "title": "foreverliketh.is"
@@ -490,6 +480,11 @@
             }
         ],
         "dead": [
+            {
+                "url": "https://yukinu.com",
+                "img": "yukinu.gif",
+                "title": "Yukinu"
+            },
             {
                 "url": "http://alienozi.c1.biz",
                 "img": "alienozi.png",
@@ -588,6 +583,11 @@
                 "i2p": "http://6jaqgde66kdsqct4ptzdj2vd32kblnk5scgwoprtmcreqbhobuhq.b32.i2p",
                 "img": "interloper.png",
                 "title": "interloper minimalist services"
+            },
+            {
+                "url": "https://czar.kalli.st",
+                "img": "czar.png",
+                "title": "czar's blog"
             }
         ]
     }
