@@ -1,5 +1,5 @@
 {
-    "updated": "2023-08-09 12:38:02.158621",
+    "updated": "2023-08-10 12:38:01.940660",
     "items": {
         "alive": [
             {
@@ -304,6 +304,11 @@
                 "title": "jole"
             },
             {
+                "url": "https://confusion.codeberg.page",
+                "img": "confusion.png",
+                "title": "Confusion's Confusing Confusefest"
+            },
+            {
                 "url": "https://morituritesalutant.neocities.org",
                 "img": "morituri-te-salutant.jpg",
                 "title": "Morituri Te Salutant"
@@ -464,11 +469,6 @@
                 "title": "cool-website.xyz"
             },
             {
-                "url": "https://czar.kalli.st",
-                "img": "czar.png",
-                "title": "czar's blog"
-            },
-            {
                 "url": "https://foreverliketh.is",
                 "img": "foreverliketh.png",
                 "title": "foreverliketh.is"
@@ -556,11 +556,6 @@
                 "title": "xiixiixii"
             },
             {
-                "url": "https://confusion.codeberg.page",
-                "img": "confusion.png",
-                "title": "Confusion's Confusing Confusefest"
-            },
-            {
                 "url": "https://thecrypt.neocities.org",
                 "img": "thecrypt.gif",
                 "title": "TheCrypt"
@@ -588,6 +583,11 @@
                 "i2p": "http://6jaqgde66kdsqct4ptzdj2vd32kblnk5scgwoprtmcreqbhobuhq.b32.i2p",
                 "img": "interloper.png",
                 "title": "interloper minimalist services"
+            },
+            {
+                "url": "https://czar.kalli.st",
+                "img": "czar.png",
+                "title": "czar's blog"
             }
         ]
     }
