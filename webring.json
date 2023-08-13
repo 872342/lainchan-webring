@@ -1,5 +1,5 @@
 {
-    "updated": "2023-08-12 12:38:01.529749",
+    "updated": "2023-08-13 12:38:02.164273",
     "items": {
         "alive": [
             {
@@ -469,11 +469,6 @@
                 "title": "cool-website.xyz"
             },
             {
-                "url": "https://czar.kalli.st",
-                "img": "czar.png",
-                "title": "czar's blog"
-            },
-            {
                 "url": "https://foreverliketh.is",
                 "img": "foreverliketh.png",
                 "title": "foreverliketh.is"
@@ -588,6 +583,11 @@
                 "i2p": "http://6jaqgde66kdsqct4ptzdj2vd32kblnk5scgwoprtmcreqbhobuhq.b32.i2p",
                 "img": "interloper.png",
                 "title": "interloper minimalist services"
+            },
+            {
+                "url": "https://czar.kalli.st",
+                "img": "czar.png",
+                "title": "czar's blog"
             }
         ]
     }
