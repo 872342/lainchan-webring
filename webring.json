@@ -1,5 +1,5 @@
 {
-    "updated": "2023-08-17 12:38:02.138814",
+    "updated": "2023-08-18 12:38:02.147632",
     "items": {
         "alive": [
             {
@@ -117,11 +117,6 @@
                 "url": "https://kyubit.neocities.org",
                 "img": "kyubit.png",
                 "title": "Kyubit"
-            },
-            {
-                "url": "https://lainch.leibur.eu",
-                "img": "lainch.png",
-                "title": "Lainch"
             },
             {
                 "url": "https://sftn.github.io",
@@ -464,6 +459,11 @@
                 "title": "cool-website.xyz"
             },
             {
+                "url": "https://czar.kalli.st",
+                "img": "czar.png",
+                "title": "czar's blog"
+            },
+            {
                 "url": "https://foreverliketh.is",
                 "img": "foreverliketh.png",
                 "title": "foreverliketh.is"
@@ -499,6 +499,11 @@
                 "url": "https://kill-9.xyz",
                 "img": "kill-9-new.png",
                 "title": "kill-9.xyz"
+            },
+            {
+                "url": "https://lainch.leibur.eu",
+                "img": "lainch.png",
+                "title": "Lainch"
             },
             {
                 "url": "https://cumbia.neocities.org",
@@ -583,11 +588,6 @@
                 "i2p": "http://6jaqgde66kdsqct4ptzdj2vd32kblnk5scgwoprtmcreqbhobuhq.b32.i2p",
                 "img": "interloper.png",
                 "title": "interloper minimalist services"
-            },
-            {
-                "url": "https://czar.kalli.st",
-                "img": "czar.png",
-                "title": "czar's blog"
             }
         ]
     }
